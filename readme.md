@@ -173,7 +173,7 @@ TELEGRAM_CHAT_ID=your-telegram-chat-id
 This project ensures you get real-time notifications on Telegram, without polling or manual checking.
 
 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](LICENSE)
 
 🤝 Contributing
 Feel free to open issues or submit pull requests to improve this project!
