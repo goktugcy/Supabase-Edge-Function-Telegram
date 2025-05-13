@@ -2,12 +2,6 @@
 
 This project is a backend notification system built using **Supabase Edge Functions** and **PostgreSQL triggers**. It listens for new entries in the `contacts` table and sends formatted messages to a **Telegram bot** using a queue-based system.
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![GitHub Created At](https://img.shields.io/github/created-at/YOUR_GITHUB_USERNAME/supabase-telegram-notifier)
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/supabase-telegram-notifier?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/supabase-telegram-notifier?style=flat)
-
 ---
 
 ## 🧠 How It Works
